@@ -1,0 +1,1 @@
+wheat , yeast , mushrooms, bellpeppers , origano , chili flakes , onion , olives , meat , pizza sauce ,cheese
